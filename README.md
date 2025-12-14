@@ -1,2 +1,2 @@
 # Justin Clicker
-This is action based clicker game for <cr>Justin.</c>
+This is action based clicker game for Justin.
